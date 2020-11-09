@@ -34,6 +34,4 @@ This is the first version of the script. It covers the following functions:
 ### Luciano Stoppa 
 Profissional de "Data Engineering", | [Linkedin](www.linkedin.com/in/lucianostoppa)
 
-##### O futuro é agora! | [www.ofuturoeagora.com.br](www.ofuturoeagora.com.br) 
-
 ###### São Paulo, 09/10/2020
